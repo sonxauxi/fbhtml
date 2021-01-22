@@ -1,0 +1,183 @@
+.fb {
+    width: 100%;
+    height: 720px;
+    background: #f0f2f5;
+    min-width: 500px;
+    display: flex;
+    padding: 72px 0 112px;
+}
+.fba {
+    width: 980px;
+    height: 496px;
+    margin: 0 184.5px;
+    padding: 10px 0;
+    display: flex;
+}
+.fb1 {
+    width: 580px;
+    height: 266px;
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+    box-sizing: border-box;
+    margin-right: 0;
+    padding-right: 32px;
+    font-family: 'SFProDisplay-Regular', Helvetica, Arial, sans-serif;
+}
+div.fbimg {
+    width: 548px;
+    padding: 112px 0 16px;
+}
+.fbimg img {
+    width: 301.06px;
+    height: 106px;
+    margin: -28px;
+}
+h2.h22 {
+    width: 500px;
+    height: 84px;
+    font-family: 'SFProDisplay-Regular', Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    padding: 0 0 20px;
+    color: #1e1c21;
+    font-weight: normal;
+    line-height: 32px; margin: 0px;
+}
+div.fb2 {
+    width: 396px;
+    height: 456px;
+}
+div.fb21 {
+    width: 396px;
+    height: 345px;
+    margin: 40px 0 0;
+    padding: 10px 0 24px !important;
+}
+div.taotrang {
+    height: 36px;
+    border-top: none;
+    font-family: 'SFProText-Regular', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding-top: 0;
+}
+div.taotrang a {
+    text-decoration: none;
+    color: #1c1e21;
+}
+div.fb21 { 
+    box-sizing: border-box;
+    width: 396px;
+    height: 345px;
+    border-radius: 6px;
+    font-size: 17px;
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    width: 396px;
+    text-align: center;
+    
+}
+div.fb21a {
+    display: inline-block;
+    margin: auto;
+    padding: 6px 0;
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+    height: 115px;
+}
+.inputtext {
+    width: 364px;
+    height: 65px;
+    font-size: 17px;
+
+}
+#inputt {
+    width: 332px;
+    height: 24px;
+    color: #fff;
+    padding: 14px 16px;
+    font-size: 17px;
+    border-radius: 6px;
+    background: #ffffff ;
+    border: 1px solid #dddfe2;
+  
+}
+#passs {
+    width: 332px;
+    height: 24px;
+    color: #fff;
+    padding: 14px 16px;
+    font-size: 17px;
+    border-radius: 6px;
+    background: #ffffff ;
+    border: 1px solid #dddfe2;
+  
+}
+div.dangnhap {
+    height: 54px;
+    width: 365px;
+    padding: 6px 0 0;
+    margin: auto;
+    
+}
+#dangnhapp { 
+    box-sizing: content-box;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 330px;
+    color: #fff;
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-weight: 700;
+    
+}
+.quenmk a{
+    text-decoration: none;
+    color: #1877f2;
+    font-weight: 500;
+    padding-top: 16px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    }
+    .gachngang {
+        width: 364px;
+        height: 1px;
+        border-bottom: 1px solid #dadde1;
+        margin: 20px 16px;
+    }
+    .taotk a{
+        text-decoration: none;
+        color: #ffffff;
+        font-weight: 900;
+
+        border: none;
+        border-radius: 6px;
+        font-size: 18px;
+        line-height: 48px;
+        padding: 0 16px;
+        background-color: #42b72a;
+        cursor: pointer;
+        display: inline-block;
+        text-decoration: none;
+        color: #fff;
+        font-weight: bold;
+        text-align: center;}
+        .taotrang {
+            border-top: none;
+            color: #1c1e21;
+            font-family: 'SFProText-Regular', Helvetica, Arial, sans-serif;
+            font-size: 14px;
+            font-weight: normal;
+            padding-top: 0;
+            margin: 28px 0 0;
+        }
+
